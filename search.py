@@ -10,8 +10,7 @@ from bs4 import BeautifulSoup as BS
 
 reload(sys)
 sys.setdefaultencoding('UTF-8')
-
-LTAI5tF1utn33ipwdms75hUX 
+ 
 dict  = {}
 mails=[]
 domains=[]
